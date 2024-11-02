@@ -1,0 +1,45 @@
+@font-face {
+  font-family: ChakraPetch;
+  font-style: normal;
+  font-weight: normal;
+  src: local('ChakraPetch Regular'), local('ChakraPetch-Regular'),
+    url("") format('truetype');
+}
+
+@font-face {
+  font-family: ChakraPetch;
+  font-style: italic;
+  font-weight: normal;
+  src: local('ChakraPetch Italic'), local('ChakraPetch-Italic'),
+    url("") format('truetype');
+}
+@font-face {
+  font-family: ChakraPetch;
+  font-style: normal;
+  font-weight: 500;
+  src: local('ChakraPetch Medium'), local('ChakraPetch-Medium'),
+    url("") format('truetype');
+}
+
+@font-face {
+  font-family: ChakraPetch;
+  font-style: italic;
+  font-weight: 500;
+  src: local('ChakraPetch Medium Italic'), local('ChakraPetch-MediumItalic'),
+    url("") format('truetype');
+}
+@font-face {
+  font-family: ChakraPetch;
+  font-style: normal;
+  font-weight: 600;
+  src: local('ChakraPetch SemiBold'), local('ChakraPetch-SemiBold'),
+    url("") format('truetype');
+}
+
+@font-face {
+  font-family: ChakraPetch;
+  font-style: italic;
+  font-weight: 600;
+  src: local('ChakraPetch SemiBold Italic'), local('ChakraPetch-SemiBoldItalic'),
+    url("") format('truetype');
+}
